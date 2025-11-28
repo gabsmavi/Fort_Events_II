@@ -23,7 +23,7 @@ Evento(
  horario,  
  preco,  
  contato,  
- imagem_url,  
+ imagem,  
  categoria,  
 )
 

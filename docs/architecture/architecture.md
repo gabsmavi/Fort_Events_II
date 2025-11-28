@@ -2,7 +2,7 @@
 
 ## Descrição da Arquitetura
 Aplicação web para visualização, cadastro e gerenciamento de eventos.  
-O sistema utiliza frontend em React, backend RESTful em Node.js/Express, banco de dados Firebase Firestore e integração com Google Maps e Firebase Cloud Messaging.
+O sistema utiliza frontend em React, backend RESTful em Node.js/Express, banco de dados Firebase Firestore e Firebase Cloud Messaging.
 
 ---
 
@@ -33,8 +33,6 @@ v
 Firebase Firestore
 |
 +--> Firebase Cloud Messaging (FCM)
-|
-+--> Google Maps API
 
 ## Decisões Técnicas e Justificativas
 

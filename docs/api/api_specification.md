@@ -15,7 +15,6 @@
 - JSON com dados do evento
 
 ## Autenticação e Autorização
-- JWT para autenticação de usuários
 - Admins possuem permissão de escrita e exclusão
 
 ## Exemplos de Chamadas 

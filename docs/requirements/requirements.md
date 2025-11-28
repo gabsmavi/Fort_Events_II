@@ -11,7 +11,7 @@ A plataforma tem como objetivo permitir que usuários visualizem eventos, consul
 - Pode listar eventos
 - Pode visualizar detalhes de um evento específico
 
-### **Administrador (autenticado via JWT)**
+### **Administrador (autenticado via Firebase)**
 - Pode criar eventos
 - Pode editar eventos
 - Pode excluir eventos
@@ -35,7 +35,7 @@ Administradores devem conseguir atualizar informações de eventos existentes.
 ### **RF-05 – Remover eventos (admin)**
 Administradores devem conseguir excluir eventos.
 
-### **RF-06 – Autenticação via JWT**
+### **RF-06 – Autenticação via Firebase**
 Deve existir login retornando um token válido para operações administrativas.
 
 ### **RF-07 – Registro de usuários (somente admin)**
