@@ -1,7 +1,7 @@
-# FortEvents
+# FortEvents: Rede de Eventos em Fortaleza
 
 ## Descrição do Projeto
-FortEvents: aplicativo multiplataforma (otimizado para web e mobile) que centraliza eventos, atividades e serviços gratuitos ou de baixo custo em Fortaleza, permitindo filtragem por categoria e localização.
+FortEvents: aplicação multiplataforma (otimizado para web e mobile) que centraliza eventos, atividades e serviços gratuitos ou de baixo custo em Fortaleza, permitindo filtragem por categoria e localização.
 
 ## Problema Abordado e Justificativa
 Cidadãos e turistas em Fortaleza têm dificuldade em localizar eventos e serviços gratuitos ou acessíveis. O aplicativo organiza essas informações em uma única plataforma, facilitando o acesso.
@@ -37,3 +37,9 @@ React.js, Flutter, Node.js, Express, Firebase Firestore
 - Gabriel Viana: Arquitetura e Banco de Dados
 - Ronaldo Paiva: Protótipos e UI/UX
 - Vitor Eduardo: Documentação e Requisitos
+
+## URL de acesso:
+- https://github.com/gabsmavi/Fort_Events_II
+
+## Video Evidencia:
+- https://drive.google.com/file/d/1I9NKTldC0zxI8be4POClPkrDBtS_8YOH/view?usp=sharing

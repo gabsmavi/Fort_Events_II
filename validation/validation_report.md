@@ -27,7 +27,7 @@ Os testes foram realizados individualmente, com observação direta.
 
 ### 4.1. Usabilidade Geral
 - **100% dos participantes** conseguiram acessar os eventos sem dificuldade.  
-- A navegação foi considerada simples e intuitiva por **4 de 5 participantes**.  
+- A navegação foi considerada simples e intuitiva por **12 de 13 participantes**.  
 - Apenas um participante comentou que a logo da página inicial não estava suficientemente visível.
 
 ### 4.2. Paginação
