@@ -4,7 +4,7 @@
 FortEvents: aplicação multiplataforma (otimizado para web e mobile) que centraliza eventos, atividades e serviços gratuitos ou de baixo custo em Fortaleza, permitindo filtragem por categoria e localização.
 
 ## Problema Abordado e Justificativa
-Cidadãos e turistas em Fortaleza têm dificuldade em localizar eventos e serviços gratuitos ou acessíveis. O aplicativo organiza essas informações em uma única plataforma, facilitando o acesso.
+Cidadãos e turistas em Fortaleza têm dificuldade em localizar eventos e serviços gratuitos ou acessíveis. O aplicativo organiza essas informações em uma única plataforma, facilitando o acesso de acordo com a ODS 11.
 
 ## Objetivos do Sistema
 - Centralizar eventos e serviços gratuitos/low cost.
