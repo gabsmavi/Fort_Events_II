@@ -36,4 +36,4 @@ React.js, Flutter, Node.js, Express, Firebase Firestore
 - Anne Andrade: Documentação e Requisitos
 - Gabriel Viana: Arquitetura e Banco de Dados
 - Ronaldo Paiva: Protótipos e UI/UX
-- Vitor Eduardo: Testes
+- Vitor Eduardo: Documentação e Requisitos

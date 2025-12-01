@@ -35,7 +35,7 @@ export default function EventsList() {
       {/* LOGO + TÍTULO */}
       <div className="title-row">
         <img src={logo} alt="FortEvents Logo" className="logo-img" />
-        <h1>Eventos em Fortaleza</h1>
+        <h1>FortEvents: Eventos em Fortaleza</h1>
       </div>
 
    {/* FILTRO COM DROPDOWN */}

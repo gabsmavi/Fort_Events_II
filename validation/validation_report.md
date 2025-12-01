@@ -10,14 +10,7 @@ Os testes se concentraram nas funcionalidades já implementadas:
 - Consistência dos dados entre frontend e banco de dados
 
 ## 2. Perfil dos Participantes
-Para esta validação, participaram 5 usuários que se enquadram no público-alvo principal:
-
-1. **Participante A (x anos)** – Estudante de escola pública, morador do Bairro Antônio Bezerra  
-2. **Participante B (x anos)** – Universitário da UFC, residente no Benfica  
-3. **Participante C (x anos)** – Trabalhadora informal (microempreendedora), moradora do Bom Jardim  
-4. **Participante D (x anos)** – Estudante de curso técnico, residente no Montese  
-5. **Participante E (x anos)** – Universitário da UNIFOR, residente no Benfica
-
+Para esta validação, participaram 13 usuários que se enquadram no público-alvo principal
 ## 3. Metodologia
 Os participantes realizaram os seguintes testes guiados:
 
